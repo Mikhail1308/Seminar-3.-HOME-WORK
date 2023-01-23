@@ -9,6 +9,6 @@ System.Console.Write("Кубы чисел в диапазоне от 1 до N:  
 for (int i = 1; i <= N; i++)
 {
     int result = i * i * i;
-    System.Console.Write($"{result};  ");
+    System.Console.Write(result + "  ");
 }
 System.Console.WriteLine();
