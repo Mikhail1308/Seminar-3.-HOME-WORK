@@ -1,0 +1,15 @@
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\TASK_001.exe
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\TASK_001.deps.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\TASK_001.runtimeconfig.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\TASK_001.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\ref\TASK_001.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\bin\Debug\net6.0\TASK_001.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.csproj.AssemblyReference.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.AssemblyInfoInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.AssemblyInfo.cs
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\ref\TASK_001.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 3  Знакомство с векторами\Seminar-3.-HOME-WORK\TASK_001\obj\Debug\net6.0\TASK_001.genruntimeconfig.cache
